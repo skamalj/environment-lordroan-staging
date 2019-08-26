@@ -19,3 +19,6 @@ dependencies:
 - name: nodejs-hello-world
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.4
+- name: nodetest
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
