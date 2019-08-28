@@ -12,4 +12,4 @@ dependencies:
   version: 0.0.1
 - name: nodejs-hello-world-4
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.1
+  version: 0.0.2
